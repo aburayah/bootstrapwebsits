@@ -1,0 +1,30 @@
+.nav a {
+	color: #5a5a5a;
+	font-weight: bold;
+	padding: 14px 10px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+.nav li {
+	align-content: center;
+	display: inline;
+}
+
+.jumbotron {
+	padding: 10px;
+	background-color: azure;
+	height: 320;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.project-container {
+	position: relative;
+	top: 100px;
+}
+
+.project-container img {
+	height: 150px;
+	width: 150px;
+}
